@@ -1,7 +1,7 @@
 JManager
 ========
 
-An Open-Source Java Keylogger Client
+An Open-Source Java Remote Administration Tool
 
 
 Requirements For Compilation
