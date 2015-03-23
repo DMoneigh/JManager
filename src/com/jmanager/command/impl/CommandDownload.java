@@ -38,7 +38,7 @@ public class CommandDownload extends Command {
 				os.write(buffer, 0, count);
 			os.close();
 			is.close();
-                        return true;
+			return true;
 		} catch (ArrayIndexOutOfBoundsException e) {
 			e.printStackTrace();
 		} catch (MalformedURLException e) {
