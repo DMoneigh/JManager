@@ -8,7 +8,7 @@ import com.jmanager.command.Command;
 /**
  * The "list::" command.
  * 
- * @author Desmond
+ * @author Desmond Jackson
  */
 public class CommandList extends Command {
 
