@@ -27,6 +27,7 @@ public class CommandRun extends Command {
 			Runtime.getRuntime().exec(arguments);
 		} catch (IOException e) {
 			e.printStackTrace();
+			return false;
 		}
 		return true;
 	}
