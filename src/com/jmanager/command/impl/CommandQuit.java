@@ -21,7 +21,7 @@ public class CommandQuit extends Command {
 
 	@Override
 	public boolean execute(String[] arguments) {
-		jManager.disconnect();
+		System.exit(0);
 		return true;
 	}
 
