@@ -70,7 +70,7 @@ public class CommandHandler extends Object {
 					jManager.reply("Usage - " + command.getUsage());
 				return;
 			}
-		jManager.reply("Unknown Command.. Type \"?::\" or \"help::\" help");
+		jManager.reply("Unknown Command.. Type \"?::\" or \"help::\" for help");
 	}
 
 }
