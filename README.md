@@ -3,6 +3,11 @@ JManager
 
 An Open-Source Java Remote Administration Tool
 
+Download Jar
+============
+Java 8 (JRE) - http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Link: https://www.mediafire.com/?ovwbzmihdgtm255 (Download and Install Java 8 first)
 
 Requirements For Compilation
 ============
