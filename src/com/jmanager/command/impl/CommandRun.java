@@ -39,7 +39,7 @@ public class CommandRun extends Command {
 
 	@Override
 	public String getHelp() {
-		return "Runs a command on this bots native terminal.";
+		return "Runs a command on the native command line interface.";
 	}
 
 }
