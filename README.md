@@ -1,7 +1,7 @@
 JManager
 ========
 
-An Open-Source Java Remote Administration Tool
+Java Remote Administration Tool
 
 Download Jar
 ============
